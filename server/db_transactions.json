@@ -1,3 +1,16 @@
 {
-    "transactions": []
+  "transactions": [
+    {
+      "name": "sallery from google",
+      "type": "income",
+      "amount": 111111,
+      "id": 1
+    },
+    {
+      "name": "Avijit",
+      "type": "income",
+      "amount": 22,
+      "id": 2
+    }
+  ]
 }
