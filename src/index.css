@@ -220,3 +220,7 @@ label {
         font-size: 95% !important;
     }
 }
+
+.error{
+    color: rgb(255, 3, 129);
+}
